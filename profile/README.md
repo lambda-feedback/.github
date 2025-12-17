@@ -1,6 +1,6 @@
 # Welcome To Lambda Feedback!
 
-Lambda Feedback is an platform for self-study that provides content, automated feedback and data analytics. The system is developed by Imperial College London and available at [lambdafeedback.com](https://www.lambdafeedback.com/). 
+Lambda Feedback is a platform for self-study that provides content, automated feedback and data analytics. The system is developed by Imperial College London and available at [lambdafeedback.com](https://www.lambdafeedback.com/). 
 
 In this GitHub organisation we host code repositories for the following:
 
